@@ -4,7 +4,7 @@
 This project aims to classify Arabic tweets into sentiment categories, either positive or negative, using TensorFlow.
 
 ## Dataset
-The dataset combines Arabic tweets and YouTube comments from two different sources, enhancing the diversity and representativeness of our training data. This amalgamation serves as a solid foundation for training our model to accurately understand and predict the sentiment of unseen Arabic texts.
+The dataset combines Arabic tweets and Youtube comments from two different sources, enhancing the diversity and representativeness of our training data. This serves as a solid foundation for training our model to accurately understand and predict the sentiment of unseen Arabic texts.
 
 - **Dataset Sources:**
   - [Tweet Sentiment Multilingual Dataset on Hugging Face](https://huggingface.co/datasets/cardiffnlp/tweet_sentiment_multilingual)

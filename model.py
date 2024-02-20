@@ -26,8 +26,8 @@ class Model:
 if __name__ == '__main__':
     model = Model()
     pos =  "كوتش انتا انسان محترم او عندك قلب كبير نشوفك غير فتلفزيون بصح مشاء الله تبارك الله" 
-    neg = "سير الكذاب"
-    nue = "مانسرح مانمد عصاتي"
+    neg = "حمار مستحمر يرأس اجتماع حمير مستنفرة"
+    nue = "نقدر نروح للجامعة ديركت بسك كل يوم و انا رايحة جاية بغيت نروح ندفع اوراقي دربة وحدة؟؟"
 
     print(model.predict(pos)) # Output: Should be Positive
     print(model.predict(neg)) # Output: Should be Negative
